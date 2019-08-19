@@ -1,4 +1,4 @@
-import win32clipboard  # http://sourceforge.net/projects/pywin32/
+import win32clipboard
 from keyboard import ctrlPress
 
 

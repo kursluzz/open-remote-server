@@ -1,0 +1,5 @@
+name: lazy-win
+dependencies:
+  - python=3.6
+  - pip:
+    - pypiwin32==220
